@@ -1,3 +1,6 @@
+# Editor temporary/working/backup files
+.idea
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
